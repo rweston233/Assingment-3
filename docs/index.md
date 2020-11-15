@@ -39,4 +39,4 @@
 - Use Workbench to export an image (PNG) of your model as `cit381-assign03-auction.png`.
 
 #### Deliverables
-[assign03.zip]()
+[assign03.zip](https://github.com/rweston233/Assingment-3/blob/main/assign03.zip)
