@@ -15,13 +15,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - A store can have more than one employee  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - All stores belong to a region  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - A store can be in only one region  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - Remember to add relationship labels to All relationships  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - Add relationship labels to All relationships  
 
 **Part I Deliverables**
 - Create a schema named `assign03`.
-- Forward engineer your model and save the SQL that creates your model as `cit381-assign03-store.sql`.
+- Forward engineer the model and save the SQL that creates the model as `cit381-assign03-store.sql`.
 - Save the model as `cit381-assign03-store.mwb`.
-- Use Workbench to export an image (PNG) of your model as `cit381-assign03-store.png`.
+- Use Workbench to export an image (PNG) of the model as `cit381-assign03-store.png`.
 
 
 ### Part II
@@ -34,9 +34,9 @@
 
 **Part II Deliverables**
 - Create a schema named `assign03`.
-- Forward engineer your model and save the SQL that creates your model as `cit381-assign03-auction.sql`.  
+- Forward engineer the model and save the SQL that creates the model as `cit381-assign03-auction.sql`.  
 - Save the model as `cit381-assign03-auction.mwb`.
-- Use Workbench to export an image (PNG) of your model as `cit381-assign03-auction.png`.
+- Use Workbench to export an image (PNG) of the model as `cit381-assign03-auction.png`.
 
 #### Deliverables
 [assign03.zip](https://github.com/rweston233/Assingment-3/blob/main/assign03.zip)
